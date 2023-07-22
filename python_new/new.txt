@@ -1,0 +1,1 @@
+Writing text in file using pythin program 
